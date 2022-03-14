@@ -3,7 +3,7 @@ import './Heading.css'
 function Heading(){
 
     return(
-        <div className="heading"><h1>|| Random User Table ||</h1></div>
+        <div className="heading"><h1>Random User Table</h1></div>
     )
 }
 
